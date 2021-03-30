@@ -15,13 +15,13 @@ sidebar:
   email: anyelinamoreno@gmail.com
   phone: +34650092138
   website: # No agregar http://
-  linkedin: https://www.linkedin.com/in/angelinamoreno/
-  github: https://github.com/anxhe
+  linkedin: angelinamoreno
+  github: anxhe
   gitlab:
   bitbucket:
-  twitter: https://twitter.com/anxhe_
-  stack-overflow: https://es.stackoverflow.com/users/217037/anxhe
-  codewars: https://www.codewars.com/users/anxhe
+  twitter: anxhe_
+  stack-overflow:
+  codewars: anxhe
   goodreads: # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
@@ -52,9 +52,6 @@ sidebar:
     - item: Time Management
       link: # dejar en blanco
 
-    - item: Social habilities
-      link: # dejar en blanco
-
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
@@ -64,14 +61,14 @@ career-profile:
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
+  - degree: Web Development
+    university: Ironhack
+    time: Oct 2017 - Dec 2017
+    details: |
+
   - degree: Social Worker
     university: Málaga
     time: 2009 - 2012
-    details: |
-
-  - degree: Web Development
-    university: Ironhack
-    time: Oct 2017 - Dec 2017  
     details: |
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
@@ -80,14 +77,14 @@ experiences:
     time: Sep 2020 - current
     company: Comui
     details: |
-    Prototype Website development using Ruby on Rails.
+      Prototype Website development using Ruby on Rails.
 
   - role: Contractor
     time: Dic 2016 - Feb 2017
     company: Tango Source
     details: |
-    Website development using Ruby on Rails for Thrive project from Waypoint Health Innovations
-      # Form and flow validations and styles 
+      Website development using Ruby on Rails for Thrive project from Waypoint Health Innovations
+      - Form and flow validations and styles
 
   - role: Student
     time: Julio 2015 -  October 2015
@@ -96,15 +93,14 @@ experiences:
       As a selected student of the Rails Girls Summer of Code 2015 I had a chance to work from MagmaLabs offices,
       mostly contributing to the open source project Living Style Guide (rubygem):
       Several contributions to the core library
-        # Designed and implemented a live editor for the LSG (Markdown dialect) language to create style guides online:
-        # Editor: http://try.livingstyleguide.org/
-        # Source: https://github.com/fanxhe/livingstyleguide-editor
+        - Designed and implemented a live editor for the LSG (Markdown dialect) language to create style guides online:
+        - Editor: http://try.livingstyleguide.org/
+        - Source: https://github.com/fanxhe/livingstyleguide-editor
 
       As part of additional activities:
 
-        # Created a blog with Jekyll hosted on Heroku where we wrote about our learning process and experiences during the summer.
+        - Created a blog with Jekyll hosted on Heroku where we wrote about our learning process and experiences during the summer.
           Gave talk at MagmaLabs about our project contributions and editor.
-
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -117,25 +113,25 @@ skills:
 
   toolset:
     - name: HTML
-      level: Advanced beginner
+      level: 40%
 
     - name: CSS
-      level: Advanced beginner
+      level: 40%
 
     - name: SASS
-      level: Advanced beginner
+      level: 40%
 
     - name: Ruby
-      level: novice
+      level: 20%
 
     - name: Ruby on Rails
-      level: novice
+      level: 20%
 
     - name: JavaScript
-      level: Advanced beginner
+      level: 20%
 
-    - name:  NodeJS
-      level: Novice
+    - name: NodeJS
+      level: 20%
 
 # NO MODIFICAR
 footer: >
