@@ -7,37 +7,43 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: Angelina Moreno Robledo # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: anyelinamoreno@gmail.com
+  phone: +34650092138
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: https://www.linkedin.com/in/angelinamoreno/
+  github: https://github.com/anxhe
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
+  twitter: https://twitter.com/anxhe_
+  stack-overflow: https://es.stackoverflow.com/users/217037/anxhe
+  codewars: https://www.codewars.com/users/anxhe
   goodreads: # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
-    - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
+    - idiom: English
+      level: Beginner # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Communication
+    - item: Integrity
+      link: # dejar en blanco
+
+    - item: Adaptability
+      link: # dejar en blanco
+
+    - item: Creativity
+      link: # dejar en blanco
+
+    - item: Critical thinking
       link: # dejar en blanco
 
     - item: Team Work
@@ -46,71 +52,59 @@ sidebar:
     - item: Time Management
       link: # dejar en blanco
 
+    - item: Social habilities
+      link: # dejar en blanco
+
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    Software developer in training, focused in web technologies. Fast learner.
+    Fomerly a social worker who got immerse in programming.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
-    details: |
-
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
+  - degree: Social Worker
+    university: Málaga
     time: 2009 - 2012
     details: |
-      Master degree in Computer Engineering
+
+  - degree: Web Development
+    university: Ironhack
+    time: Oct 2017 - Dec 2017  
+    details: |
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Partner (Web development)
+    time: Sep 2020 - current
+    company: Comui
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+    Prototype Website development using Ruby on Rails.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Contractor
+    time: Dic 2016 - Feb 2017
+    company: Tango Source
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+    Website development using Ruby on Rails for Thrive project from Waypoint Health Innovations
+      # Form and flow validations and styles 
+
+  - role: Student
+    time: Julio 2015 -  October 2015
+    company: Rails Girls Summer of Code
+    details: |
+      As a selected student of the Rails Girls Summer of Code 2015 I had a chance to work from MagmaLabs offices,
+      mostly contributing to the open source project Living Style Guide (rubygem):
+      Several contributions to the core library
+        # Designed and implemented a live editor for the LSG (Markdown dialect) language to create style guides online:
+        # Editor: http://try.livingstyleguide.org/
+        # Source: https://github.com/fanxhe/livingstyleguide-editor
+
+      As part of additional activities:
+
+        # Created a blog with Jekyll hosted on Heroku where we wrote about our learning process and experiences during the summer.
+          Gave talk at MagmaLabs about our project contributions and editor.
+
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -122,23 +116,26 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
+    - name: HTML
+      level: Advanced beginner
 
-    - name: PyTorch
-      level: 40%
+    - name: CSS
+      level: Advanced beginner
 
-    - name: Tensorflow
-      level: 60%
+    - name: SASS
+      level: Advanced beginner
 
-    - name: Caffe
-      level: 80%
+    - name: Ruby
+      level: novice
 
-    - name: Matlab
-      level: 100%
+    - name: Ruby on Rails
+      level: novice
 
-    - name: C/C++
-      level: 40%
+    - name: JavaScript
+      level: Advanced beginner
+
+    - name:  NodeJS
+      level: Novice
 
 # NO MODIFICAR
 footer: >
